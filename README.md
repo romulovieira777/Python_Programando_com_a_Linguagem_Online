@@ -12,5 +12,6 @@
 - [Aula 07 - Módulos](https://github.com/romulovieira777/Python_Programando_com_a_Linguagem_Online/tree/main/Aula_07_Modulos)
 - [Aula 08 - Strings](https://github.com/romulovieira777/Python_Programando_com_a_Linguagem_Online/tree/main/Aula_08_Strings)
 - [Aula 09 - Manipulação de Arquivos Texto](https://github.com/romulovieira777/Python_Programando_com_a_Linguagem_Online/tree/main/Aula_09_Manipulacao_de_Arquivos_Texto)
+- [Aula 10 - Estruturas de Dados]()
 
 Link para o curso: [Impacta](https://www.impacta.com.br/cursos/programando-com-a-linguagem-python-online)
