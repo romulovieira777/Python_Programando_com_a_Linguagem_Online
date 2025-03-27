@@ -10,6 +10,6 @@
 - [Aula 05 - Estruturas de Controle](https://github.com/romulovieira777/Python_Programando_com_a_Linguagem_Online/tree/main/Aula_05_Estruturas_de_Controle)
 - [Aula 06 - Funções](https://github.com/romulovieira777/Python_Programando_com_a_Linguagem_Online/tree/main/Aula_06_Funcoes)
 - [Aula 07 - Módulos](https://github.com/romulovieira777/Python_Programando_com_a_Linguagem_Online/tree/main/Aula_07_Modulos)
-- [Aula 08 - Strings]()
+- [Aula 08 - Strings](https://github.com/romulovieira777/Python_Programando_com_a_Linguagem_Online/tree/main/Aula_08_Strings)
 
 Link para o curso: [Impacta](https://www.impacta.com.br/cursos/programando-com-a-linguagem-python-online)
