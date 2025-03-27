@@ -9,6 +9,6 @@
 - [Aula 04 - Entrada e Impressão de Dados](https://github.com/romulovieira777/Python_Programando_com_a_Linguagem_Online/tree/main/Aula_04_Entrada_e_Impress%C3%A3o_de_Dados)
 - [Aula 05 - Estruturas de Controle](https://github.com/romulovieira777/Python_Programando_com_a_Linguagem_Online/tree/main/Aula_05_Estruturas_de_Controle)
 - [Aula 06 - Funções](https://github.com/romulovieira777/Python_Programando_com_a_Linguagem_Online/tree/main/Aula_06_Funcoes)
-- [Aula 07 - Módulos]()
+- [Aula 07 - Módulos](https://github.com/romulovieira777/Python_Programando_com_a_Linguagem_Online/tree/main/Aula_07_Modulos)
 
 Link para o curso: [Impacta](https://www.impacta.com.br/cursos/programando-com-a-linguagem-python-online)
