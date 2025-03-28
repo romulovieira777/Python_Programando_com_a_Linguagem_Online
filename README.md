@@ -14,5 +14,6 @@
 - [Aula 09 - Manipulação de Arquivos Texto](https://github.com/romulovieira777/Python_Programando_com_a_Linguagem_Online/tree/main/Aula_09_Manipulacao_de_Arquivos_Texto)
 - [Aula 10 - Estruturas de Dados](https://github.com/romulovieira777/Python_Programando_com_a_Linguagem_Online/tree/main/Aula_10_Estruturas_de_Dados)
 - [Aula 11 - Orientação a Objetos](https://github.com/romulovieira777/Python_Programando_com_a_Linguagem_Online/tree/main/Aula_11_Orientacao_a_Objetos)
+- [Aula 12 - Gerenciando o Ambiente]()
 
 Link para o curso: [Impacta](https://www.impacta.com.br/cursos/programando-com-a-linguagem-python-online)
